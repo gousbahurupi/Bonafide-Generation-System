@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAB3869-5D41-4983-8350-3724018FEED1}|Certify.vbproj|c:\\users\\lenovo\\documents\\gous pro\\certify\\print.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2AAB3869-5D41-4983-8350-3724018FEED1}|Certify.vbproj|solutionrelative:print.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAB3869-5D41-4983-8350-3724018FEED1}|Certify.vbproj|C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\uservalid.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2AAB3869-5D41-4983-8350-3724018FEED1}|Certify.vbproj|solutionrelative:uservalid.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAB3869-5D41-4983-8350-3724018FEED1}|Certify.vbproj|c:\\users\\lenovo\\documents\\gous pro\\certify\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2AAB3869-5D41-4983-8350-3724018FEED1}|Certify.vbproj|solutionrelative:form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAB3869-5D41-4983-8350-3724018FEED1}|Certify.vbproj|C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\sysupdate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2AAB3869-5D41-4983-8350-3724018FEED1}|Certify.vbproj|solutionrelative:sysupdate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAB3869-5D41-4983-8350-3724018FEED1}|Certify.vbproj|C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\options.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2AAB3869-5D41-4983-8350-3724018FEED1}|Certify.vbproj|solutionrelative:options.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAB3869-5D41-4983-8350-3724018FEED1}|Certify.vbproj|C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\init.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2AAB3869-5D41-4983-8350-3724018FEED1}|Certify.vbproj|solutionrelative:init.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAB3869-5D41-4983-8350-3724018FEED1}|Certify.vbproj|C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\init.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2AAB3869-5D41-4983-8350-3724018FEED1}|Certify.vbproj|solutionrelative:init.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Print.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\Print.vb",
+              "RelativeDocumentMoniker": "Print.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\Print.vb [Design]",
+              "RelativeToolTip": "Print.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-27T19:01:55.264Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form5.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\Form5.vb",
+              "RelativeDocumentMoniker": "Form5.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\Form5.vb [Design]*",
+              "RelativeToolTip": "Form5.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-17T02:02:56.198Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserValid.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\UserValid.vb",
+              "RelativeDocumentMoniker": "UserValid.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\UserValid.vb [Design]",
+              "RelativeToolTip": "UserValid.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-17T02:02:52.209Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SysUpdate.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\SysUpdate.vb",
+              "RelativeDocumentMoniker": "SysUpdate.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\SysUpdate.vb [Design]",
+              "RelativeToolTip": "SysUpdate.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-17T02:02:48.022Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Options.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\Options.vb",
+              "RelativeDocumentMoniker": "Options.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Visual Studio 2012\\Projects\\Certify\\Options.vb [Design]",
+              "RelativeToolTip": "..\\..\\Visual Studio 2012\\Projects\\Certify\\Options.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-17T02:01:46.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Init.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\Init.vb",
+              "RelativeDocumentMoniker": "Init.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\Init.vb",
+              "RelativeToolTip": "Init.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-17T01:56:43.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Init.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Gous Pro\\Certify\\Init.vb",
+              "RelativeDocumentMoniker": "Init.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Visual Studio 2012\\Projects\\Certify\\Init.vb [Design]",
+              "RelativeToolTip": "..\\..\\Visual Studio 2012\\Projects\\Certify\\Init.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-17T01:55:18.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
